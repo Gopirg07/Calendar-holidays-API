@@ -1,0 +1,70 @@
+hr {
+  border-top: 2px dotted #000;
+}
+
+.title {
+  margin-bottom: 20px;
+}
+
+.search-section {
+  gap: 1rem;
+}
+.parent-div p {
+  margin: 7px 0px;
+}
+.head-title {
+  color: white;
+  font-size: 30px;
+  font-weight: 600;
+}
+h6 {
+  color: white;
+  font-size: 18px;
+  font-weight: 600;
+}
+.heading{
+    color: #198754;
+}
+.list-section {
+  padding: 0 1rem;
+}
+.list-data {
+  background-color: #198754;
+  padding: 2rem;
+  border-radius: 10px;
+  margin-top: 5%;
+  min-height: 380px;
+}
+#holiday-name {
+  font-weight: 600;
+  color: white;
+}
+#holiday-desc {
+  font-weight: 600;
+  color: white;
+}
+#holiday-date {
+  font-weight: 600;
+  color: white;
+}
+#holiday-type {
+  font-weight: 600;
+  color: white;
+}
+
+#holidayy-name {
+  font-weight: 400;
+  color: white;
+}
+#holidayy-desc {
+  font-weight: 400;
+  color: white;
+}
+#holidayy-date {
+  font-weight: 400;
+  color: white;
+}
+#holidayy-type {
+  color: white;
+  font-weight: 400;
+}
